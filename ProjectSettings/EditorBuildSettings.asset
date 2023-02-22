@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2_ClassBinding/ClassBinding.unity
+    guid: 9253b8c1bc2b24fe79372cd4dd8f2783
   m_configObjects: {}
